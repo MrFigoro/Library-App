@@ -1,0 +1,2 @@
+template: Hello, %s, from Library!
+defaultName: Librarian
